@@ -4,7 +4,7 @@ This allows you to click on a Pokemon type and see the effectiveness compared to
 
 How its made:
 
-This porject was made with HTML, CSS and JavaScript. The HTML and CSS give it a simple yet clean design while the Javascript allows for the functionality I wanted for the final product. Allowing a user to click buttons to pull up a modal with information or close it by clicking off the modal.
+This project was made with HTML, CSS and JavaScript. The HTML and CSS give it a simple yet clean design while the Javascript allows for the functionality I wanted for the final product. Allowing a user to click buttons to pull up a modal with information or close it by clicking off the modal.
 
 Lessons Learned:
 
